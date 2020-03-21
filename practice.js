@@ -31,3 +31,7 @@ const newflags = flags.slice().reverse();
 
 console.log(flags);
 console.log(newflags);
+
+const workout = '🏋 🚬 💪';
+console.log(workout.endsWith('💪'));
+
