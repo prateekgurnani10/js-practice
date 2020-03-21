@@ -7,7 +7,7 @@ const foo = 'string';
 foo.split(' ');
 console.log(foo);
 
-const hello = 'Prateek#100#hi'
+const hello = 'prateek#100#hi'
 
 const emoji = 'cake💔';
 
