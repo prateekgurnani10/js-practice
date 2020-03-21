@@ -35,3 +35,11 @@ console.log(newflags);
 const workout = '🏋 🚬 💪';
 console.log(workout.endsWith('💪'));
 
+// merge arrays using spread operator
+const merged = [...flags, ...newflags];
+console.log(merged);
+
+// merge arrays using concat method
+
+const merged1 = [].concat(flags,newflags);
+console.log(merged1);
