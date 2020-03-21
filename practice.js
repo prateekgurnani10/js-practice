@@ -25,3 +25,9 @@ console.log(bar.includes('🐟'));
 
 const barReverse = bar.reverse();
 console.log(barReverse);
+
+const flags = ['🇮🇳','🇩🇪','🇷🇺'];
+const newflags = flags.slice().reverse();
+
+console.log(flags);
+console.log(newflags);
