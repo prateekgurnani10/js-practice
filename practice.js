@@ -23,3 +23,5 @@ console.log(Object.entries(zoo));
 const bar = ['🍫' ,'🍬' ,'🎂 '];
 console.log(bar.includes('🐟'));
 
+const barReverse = bar.reverse();
+console.log(barReverse);
