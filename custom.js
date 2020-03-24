@@ -41,5 +41,6 @@ console.log(merged);
 
 // merge arrays using concat method
 
+
 const merged1 = [].concat(flags,newflags);
 console.log(merged1);
