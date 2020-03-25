@@ -43,5 +43,3 @@ console.log(merged);
 
 const merged1 = [].concat(flags,newflags);
 console.log(merged1);
-console.log(merged1);
-console.log(merged1);
