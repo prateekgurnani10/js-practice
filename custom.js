@@ -8,7 +8,6 @@ foo.split(' ');
 console.log(foo);
 
 const hello = 'prateek#100#hi'
-
 const emoji = 'cake💔';
 
 const zoo = {
