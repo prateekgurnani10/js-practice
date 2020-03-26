@@ -1,3 +1,3 @@
 # js-practice
 
-Some Javascript practttice and exercises
+Some Javascript practice and exercises
