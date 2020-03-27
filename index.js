@@ -11,21 +11,21 @@ const hello = 'prateek#100#hi'
 const emoji = 'cake💔';
 
 const zoo = {
-    lion : '🦁',
-    panda : '🐼'
+    lion: '🦁',
+    panda: '🐼'
 };
 
 console.log(Object.keys(zoo));
 console.log(Object.values(zoo));
 console.log(Object.entries(zoo));
 
-const bar = ['🍫' ,'🍬' ,'🎂 '];
+const bar = ['🍫', '🍬', '🎂 '];
 console.log(bar.includes('🐟'));
 
 const barReverse = bar.reverse();
 console.log(barReverse);
 
-const flags = ['🇮🇳','🇩🇪','🇷🇺'];
+const flags = ['🇮🇳', '🇩🇪', '🇷🇺'];
 const newflags = flags.slice().reverse();
 
 console.log(flags);
@@ -41,5 +41,5 @@ console.log(merged);
 // merge arrays using concat method
 
 
-const merged1 = [].concat(flags,newflags);
+const merged1 = [].concat(flags, newflags);
 console.log(merged1);
